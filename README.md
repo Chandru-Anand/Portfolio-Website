@@ -8,8 +8,7 @@ This is a simple portfolio website built using **HTML** and **basic CSS**. It co
 ## Technologies Used
 - **HTML5** – For structuring the web pages  
 - **CSS3** – For styling and layout  
-- **Google Fonts** – For improved typography (if used)  
-- **Flexbox/Grid** – For responsive design (if applicable)  
+- **Google Fonts** – For improved typography.
 
 ## Features
 - Simple and clean UI  
@@ -20,4 +19,4 @@ This is a simple portfolio website built using **HTML** and **basic CSS**. It co
 ## How to Use
 1. Clone the repository using the following command:  
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+  
